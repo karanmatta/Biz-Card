@@ -39,4 +39,4 @@ Biz Card is licensed under the MIT License. See the LICENSE file for more inform
 
 ### Contact
 
-If you have any questions or concerns about Biz Card, please contact us at [bizcard@domain.com](mailto:karanmatta28@gmail.com).
+If you have any questions or concerns about Biz Card, please contact us at [karanmatta28@gmail.com](mailto:karanmatta28@gmail.com).
